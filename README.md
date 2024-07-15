@@ -1,2 +1,2 @@
-# pocket-money-react-app
+# MERN Money Tracker App
  
